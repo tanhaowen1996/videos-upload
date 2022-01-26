@@ -1,0 +1,10 @@
+.venv
+__pycache__
+static/
+migrations/
+db.sqlite3
+local
+*.swp
+*.log
+*.pid
+*.idea/

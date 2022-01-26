@@ -1,0 +1,8 @@
+django<3.3
+django-filter
+django-netfields
+djangorestframework
+drf_yasg
+gunicorn
+httptools
+
